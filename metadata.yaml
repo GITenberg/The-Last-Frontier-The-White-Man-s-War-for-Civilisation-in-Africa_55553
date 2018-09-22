@@ -1,5 +1,8 @@
 _repo: The-Last-Frontier-The-White-Man-s-War-for-Civilisation-in-Africa_55553
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 55553-h/images/cover.jpg
 creator:
   author:
     agent_name: Powell, E. Alexander (Edward Alexander)
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3963
     wikipedia: http://en.wikipedia.org/wiki/E._Alexander_Powell
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55553#The-Last-Frontier-The-White-Man-s-War-for-Civilisation-in-Africa
 gutenberg_issued: '2017-09-26'
 gutenberg_type: Text
 identifiers:
